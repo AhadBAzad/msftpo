@@ -25,8 +25,8 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Ahad Bin Azad",
-  title: "Web Designer & Content Creator",
-  email: "alex@example.com",
+  title: "Tech Enthusiast",
+  email: "ahad.azad@studentambassadors.com",
   gitHub: "microsoft",
   instagram: "microsoft",
   linkedIn: "satyanadella",
